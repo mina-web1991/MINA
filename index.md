@@ -22,9 +22,9 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ jahad daneshgahi tehran 3
++ Diploma : physical education school
++ Bachelor's degreee : IT Engineering
+_ jahad university tehran 3
 
 ### language
 
@@ -35,15 +35,15 @@ _ jahad daneshgahi tehran 3
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ excel
++ it
 + travel 
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ 
 
 
 
