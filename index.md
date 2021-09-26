@@ -5,9 +5,9 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ name: mina
++ last name : mohamadi
++ Date of birth : 1991/November/12
 + I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
@@ -24,7 +24,7 @@
 ---
 + Diploma : Aeen Tarbiat high school
 + Bachelor of science : IT Engineering
-_ payam Noor University of North 
+_ jahad daneshgahi tehran 3
 
 ### language
 
